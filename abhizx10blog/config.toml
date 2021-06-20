@@ -1,0 +1,5 @@
+baseURL = "http://Abhizx10.github.io/blog/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "My Blog"
+theme="contrast-hugo"

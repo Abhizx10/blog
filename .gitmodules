@@ -1,0 +1,4 @@
+[submodule "abhizx10blog/public"]
+	path = abhizx10blog/public
+	url = https://github.com/Abhizx10/abhizx10.github.io.git
+	branch = master
