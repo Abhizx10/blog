@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My Blog</title>
-    <link>https://abhizx10.github.io/blog/post/</link>
+    <link>//abhizx10.github.io/blog/post/</link>
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Jun 2021 11:17:02 -0500</lastBuildDate><atom:link href="https://abhizx10.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Jun 2021 11:17:02 -0500</lastBuildDate><atom:link href="//abhizx10.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HelloWorld</title>
-      <link>https://abhizx10.github.io/blog/post/helloworld/</link>
+      <link>//abhizx10.github.io/blog/post/helloworld/</link>
       <pubDate>Sun, 20 Jun 2021 11:17:02 -0500</pubDate>
       
-      <guid>https://abhizx10.github.io/blog/post/helloworld/</guid>
+      <guid>//abhizx10.github.io/blog/post/helloworld/</guid>
       <description>Just testing the Hugo setup</description>
     </item>
     
